@@ -3,3 +3,16 @@ This is a program that provides a graphical solution for the population inversio
 
 # GUI Screenshot:
 <img width="636" alt="Result for levels 2 and 3" src="https://user-images.githubusercontent.com/61244643/112912005-90aa4600-90c4-11eb-872c-0fedfaceab5b.png">
+
+# How to launch:
+
+-Make sure you have Pyhton3 IDLE.
+
+-Download Population Inversion for Ar Laser Atomic System.py file.
+
+-Run the Population Inversion for Ar Laser Atomic System.py file with the following packages installed:
+  
+  - math
+  - numpy
+  - mathplotlib
+  - scipy
