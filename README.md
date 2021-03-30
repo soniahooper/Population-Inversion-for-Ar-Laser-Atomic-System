@@ -18,5 +18,6 @@ My program calculates system of the 4 coupled differentian equations using odein
   
   - math
   - numpy
-  - mathplotlib
   - scipy
+  - mathplotlib
+  
