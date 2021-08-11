@@ -1,5 +1,6 @@
 # Population-Inversion-for-Argon-Laser-Atomic-System
 This is a program that provides a graphical solution for the population inversion of the levels 2 and 3 of the Argon laser atomic system.
+
 Provided program was created in Python3 IDLE using numpy, scipy and mathplotlib libraries.
 
 Argon laser has a 4-level atomic system where the transition of the atoms between levels 2 and 3 is important for receiving the emission in blue and green regions of the electromagnetic spectrum (488 nm and 514.5 nm).
